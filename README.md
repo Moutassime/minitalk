@@ -1,2 +1,2 @@
 # minitalk
-server and client
+server and client that can transerfer messages 
